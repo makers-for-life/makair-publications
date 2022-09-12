@@ -11,6 +11,5 @@ This section contains all the TIPE work done by students.
 - Lycée Stanislas
 - Engineering school ISEP
 
-	| Lycée Clémenceau Nantes | Diack Abdou-Aziz et Dagron Marin | Modelling of the patient/ventilator system as a block diagram
- | |----------|:-------------:|------:| 
+| Lycée Clémenceau Nantes | Diack Abdou-Aziz et Dagron Marin | Modelling of the patient/ventilator system as a block diagram |
 
