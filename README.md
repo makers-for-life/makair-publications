@@ -9,3 +9,6 @@ This section contains all the TIPE work done by students. You can find all the s
 ![Tableau des étudiants](https://github.com/LoanBoutry/TIPE/blob/cd2eb68c7ae77001b887860c6b24f63241d841e4/Student_TIPE.png)
 
 
+## BAC 2022
+
+This section contains the subject of engineering sciences for the BAC 2022 in Polynesia  
