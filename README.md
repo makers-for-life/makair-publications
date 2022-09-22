@@ -17,5 +17,5 @@ This section contains the subject of engineering sciences for the BAC 2022 in Po
 
 This section contains several reports produced by students in BTS Digital Systems on a theme: Computing and Networks
 
-![Tableau des Tâches](https://github.com/LoanBoutry/TIPE/blob/d8e7a675591f6c35df0c4ef0de117a1f368feebe/Use_case_SG01.png)
+![Tableau des Tâches](https://github.com/LoanBoutry/TIPE/blob/c852ba64162777cafa1815abb91439cfb5a9b8cb/Use_case_SG01.png)
 
