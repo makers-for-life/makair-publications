@@ -15,7 +15,7 @@ This section contains the subject of engineering sciences for the BAC 2022 in Po
 
 ## BTS Digital Systems
 
-This section contains several reports produced by students in BTS Digital Systems on a theme: 
+This section contains several reports produced by students in BTS Digital Systems on these topics: 
 
 ### SG01 : Computing and Networks
 
