@@ -19,7 +19,7 @@ This section contains several reports produced by students in BTS Digital System
 
 ### SG01 : Computing and Networks
 
-![Tableau des Tâches](https://github.com/LoanBoutry/TIPE/blob/ef999a1319b17c740bb277074d90fc428e033ae1/Usecase%20SG01.png)
+![Tableau des Tâches](https://github.com/LoanBoutry/TIPE/blob/776bb6136170a71e7f0f92dcebe7c28d776670ff/Usecase%20SG01.png)
 
 ### SG05 : Electronics & Communications
 
